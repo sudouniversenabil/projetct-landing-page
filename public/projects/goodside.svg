@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760">
+  <rect width="900" height="760" fill="#f3c7ad"/>
+  <rect x="73" y="54" width="754" height="650" rx="18" fill="#fbf8f1"/>
+  <path d="M91 72h718v46H91z" fill="#fffdf8"/>
+  <circle cx="115" cy="95" r="5" fill="#e9876c"/><circle cx="133" cy="95" r="5" fill="#ecc55f"/><circle cx="151" cy="95" r="5" fill="#8caf77"/>
+  <text x="123" y="163" fill="#274032" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="3">GOODSIDE</text>
+  <text x="588" y="161" fill="#526257" font-family="Arial,sans-serif" font-size="13">SHOP  OUR STORY  JOURNAL</text>
+  <rect x="112" y="189" width="676" height="420" rx="10" fill="#e4b295"/>
+  <circle cx="665" cy="366" r="137" fill="#d58a69"/>
+  <path d="M523 373h285v236H523z" fill="#d99471"/>
+  <ellipse cx="665" cy="385" rx="102" ry="37" fill="#f6e8d0"/>
+  <path d="M574 382h182l-17 153H591z" fill="#45604c"/>
+  <ellipse cx="665" cy="382" rx="91" ry="23" fill="#f5eee1"/>
+  <path d="M590 377c5-18 17-28 29-34m32 34c8-24 22-33 38-41m7 39c6-16 16-23 27-27" fill="none" stroke="#799276" stroke-width="8" stroke-linecap="round"/>
+  <text x="143" y="255" fill="#264032" font-family="Georgia,serif" font-size="40">A slower kind</text>
+  <text x="143" y="301" fill="#264032" font-family="Georgia,serif" font-size="40">of good morning.</text>
+  <text x="145" y="331" fill="#526257" font-family="Arial,sans-serif" font-size="14">Small-batch coffee, made for your everyday.</text>
+  <rect x="145" y="357" width="129" height="42" rx="21" fill="#284334"/>
+  <text x="169" y="383" fill="#fffdf8" font-family="Arial,sans-serif" font-size="13" font-weight="700">SHOP THE BLEND</text>
+  <text x="115" y="649" fill="#526257" font-family="Arial,sans-serif" font-size="13">FRESHLY ROASTED · ETHICALLY SOURCED · ALWAYS GOOD</text>
+</svg>

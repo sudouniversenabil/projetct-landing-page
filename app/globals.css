@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background: #f7f8fc;
+  color: #10172a;
+}
+
+::selection {
+  background: #b7f36b;
+  color: #10172a;
+}
+
+.hero-glow {
+  background:
+    radial-gradient(ellipse at 68% 28%, rgba(116, 87, 255, 0.32), transparent 34%),
+    radial-gradient(ellipse at 83% 75%, rgba(52, 211, 153, 0.18), transparent 30%);
+}
+
+.section-anchor {
+  scroll-margin-top: 5.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

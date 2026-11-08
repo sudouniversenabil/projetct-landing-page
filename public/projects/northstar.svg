@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760">
+  <rect width="900" height="760" fill="#c6d9e8"/>
+  <rect x="73" y="54" width="754" height="650" rx="18" fill="#f8fafc"/>
+  <path d="M91 72h718v46H91z" fill="#fff"/>
+  <circle cx="115" cy="95" r="5" fill="#e9876c"/><circle cx="133" cy="95" r="5" fill="#ecc55f"/><circle cx="151" cy="95" r="5" fill="#8caf77"/>
+  <rect x="92" y="118" width="150" height="586" fill="#f1f5f8"/>
+  <circle cx="117" cy="151" r="10" fill="#597d92"/>
+  <text x="136" y="155" fill="#29414f" font-family="Arial,sans-serif" font-size="13" font-weight="700">northstar</text>
+  <rect x="108" y="188" width="117" height="31" rx="8" fill="#dce8ee"/>
+  <text x="124" y="208" fill="#365568" font-family="Arial,sans-serif" font-size="12">Overview</text>
+  <text x="124" y="254" fill="#788893" font-family="Arial,sans-serif" font-size="12">Projects</text>
+  <text x="124" y="290" fill="#788893" font-family="Arial,sans-serif" font-size="12">Team</text>
+  <text x="124" y="326" fill="#788893" font-family="Arial,sans-serif" font-size="12">Reports</text>
+  <text x="278" y="162" fill="#273c49" font-family="Arial,sans-serif" font-size="21" font-weight="700">Good morning, Taylor</text>
+  <text x="278" y="187" fill="#7d8c96" font-family="Arial,sans-serif" font-size="12">Here&apos;s what&apos;s happening with your projects today.</text>
+  <rect x="278" y="213" width="158" height="98" rx="10" fill="#fff" stroke="#e4ebef"/>
+  <rect x="450" y="213" width="158" height="98" rx="10" fill="#fff" stroke="#e4ebef"/>
+  <rect x="622" y="213" width="158" height="98" rx="10" fill="#fff" stroke="#e4ebef"/>
+  <text x="294" y="240" fill="#86949d" font-family="Arial,sans-serif" font-size="11">ACTIVE PROJECTS</text>
+  <text x="294" y="279" fill="#273c49" font-family="Arial,sans-serif" font-size="26" font-weight="700">24</text>
+  <text x="466" y="240" fill="#86949d" font-family="Arial,sans-serif" font-size="11">COMPLETED</text>
+  <text x="466" y="279" fill="#273c49" font-family="Arial,sans-serif" font-size="26" font-weight="700">18</text>
+  <text x="638" y="240" fill="#86949d" font-family="Arial,sans-serif" font-size="11">ON-TIME RATE</text>
+  <text x="638" y="279" fill="#273c49" font-family="Arial,sans-serif" font-size="26" font-weight="700">96%</text>
+  <rect x="278" y="329" width="502" height="244" rx="10" fill="#fff" stroke="#e4ebef"/>
+  <text x="298" y="361" fill="#354a56" font-family="Arial,sans-serif" font-size="13" font-weight="700">Team activity</text>
+  <path d="M301 511h452M301 470h452M301 429h452M301 388h452" stroke="#e9eef1" stroke-width="1"/>
+  <path d="M310 490c40-10 52-55 94-37s56 36 95 5 54-18 91-50 67 19 96-3 39-41 61-52" fill="none" stroke="#5d8a9f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M310 514c40-8 52-22 94-18s56-37 95-16 54-11 91-10 67-23 96-19 39-26 61-34" fill="none" stroke="#a9c7d4" stroke-width="3" stroke-linecap="round"/>
+  <text x="279" y="607" fill="#7d8c96" font-family="Arial,sans-serif" font-size="11">A clearer view of your week.</text>
+</svg>
