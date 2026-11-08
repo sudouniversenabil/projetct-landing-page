@@ -1,4 +1,4 @@
-export const fullName = "Nabil Sikder";
+export const fullName = "Omitrix Tech";
 
 export const fiverrProfileUrl =
   process.env.NEXT_PUBLIC_FIVERR_URL ||
@@ -7,7 +7,7 @@ export const fiverrProfileUrl =
 export const whatsappUrl =
   process.env.NEXT_PUBLIC_WHATSAPP_URL || "https://wa.me/8801605915036";
 
-export const whatsappNumber = "01605915036";
+export const whatsappNumber = "";
 
 export const contactEmailUsername = "nabilsikder.public";
 export const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL?.trim() || "";
